@@ -3,7 +3,7 @@
 # Created: 2/12/2020
 # Last modified: 2/27/2020
 # Pattern Recognition & Neural Networks
-# HW #1 Descriptive Statistics, Classification and Analysis Using Python & Python Libraries
+# Descriptive Statistics, Classification and Analysis Using Python & Python Libraries
 # Part 2
 
 # imports for Listing 6
