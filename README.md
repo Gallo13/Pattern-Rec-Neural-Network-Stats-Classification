@@ -1,5 +1,5 @@
 # Pattern-Rec-Neural-Network-Stats&Clasification
-Descriptive Statistics, Classification and Analysis Using Python &amp; Python Libraries
+Descriptive Statistics, Classification and Analysis Using Python &amp; Python Libraries (2)
 
 PART 1
 --------------------------------------
