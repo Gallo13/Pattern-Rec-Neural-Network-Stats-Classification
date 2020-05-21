@@ -5,7 +5,7 @@ PART 1
 --------------------------------------
 Listing 1:
   a. Load Libraries
-  b. Load the Dataset
+  b. Load the Dataset (BANKNOTE AUTHENTICATION DATASET USED)
 
 Listing 2:
 Dimensions of the datatse. Peek at the data itself. Statistical summary of all attributes. 
