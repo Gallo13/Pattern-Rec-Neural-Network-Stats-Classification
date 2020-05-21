@@ -1,4 +1,4 @@
-# Pattern-Rec-Neural-Network-Banknote-Authentication-Dataset
+# Pattern-Rec-Neural-Network-Stats&Clasification
 Descriptive Statistics, Classification and Analysis Using Python &amp; Python Libraries
 
 PART 1
