@@ -1,5 +1,6 @@
 # Created: 2/19/2020
 # Last Modified: 2/19/2020
+# Created by: Jessica Gallo
 # Pattern Recognition and Neural Networks
 # Descriptive Statistics, Classification and Analysis Using Python and Python Libraries
 # Part 1
